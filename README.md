@@ -1,5 +1,4 @@
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=felippetadeu&show_icons=true&theme=dark&count_private=true&hide=issues" alt="github stats" />
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippetadeu&theme=dark" alt="top languages"/> 
 
 ### Olá 👋
 
@@ -7,6 +6,8 @@ Meu nome é Felippe Tadeu e sou de São José do Rio Preto, SP / Brasil. Trabalh
 Atualmente estou focado em novos aprendizados tanto na área de tecnologia quanto em economia, mais precisamente em criptomoedas!
 
 No meu tempo livre gosto de jogar [Path of Exile](https://www.pathofexile.com/) (venha jogar também!), assistir filmes e séries.
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippetadeu&theme=dark" alt="top languages"/> 
 
 #### Redes Sociais
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippetadeu)](https://www.linkedin.com/in/felippetadeu/)
