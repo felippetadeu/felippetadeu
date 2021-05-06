@@ -12,7 +12,7 @@ No meu tempo livre gosto de jogar [Path of Exile](https://www.pathofexile.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felippetadeu)](https://www.linkedin.com/in/felippetadeu/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felippetadeu)](https://twitter.com/felippetadeu)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://instagram.com/felippe_tadeu)](https://instagram.com/felippe_tadeu)
-[![Site Badge](https://img.shields.io/badge/Blog-afonsoamaro.dev-black)](https://afonsoamaro.dev/blog)
+[![Site Badge](https://img.shields.io/website?url=https%3A%2F%2Ffelippetadeu.com.br)](https://felippetadeu.com.br)
 
 #### Languages, Frameworks and Tools:
 
