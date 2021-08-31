@@ -31,4 +31,4 @@ No meu tempo livre gosto de jogar [Path of Exile](https://www.pathofexile.com/) 
 <br />
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=felippetadeu&show_icons=true&theme=dark&count_private=true&hide=issues" alt="github stats" />
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippetadeu&theme=dark" alt="top languages"/> 
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippetadeu&layout=compact&theme=dark" alt="top languages"/> 
