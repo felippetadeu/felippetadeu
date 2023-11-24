@@ -1,7 +1,7 @@
 ### Olá 👋
 
 Meu nome é Felippe Tadeu e sou de São José do Rio Preto, SP / Brasil. Trabalho com desenvolvedor desde 2012 e atualmente trabalho no [Grupo Sifra](https://gruposifra.com.br).
-Atualmente estou focado em novos aprendizados tanto na área de tecnologia quanto em economia, mais precisamente em criptomoedas!
+Atualmente estou focado no aperfeiçoamento do meu conhecimento em Arquitetura de Software.
 
 No meu tempo livre gosto de jogar [Path of Exile](https://www.pathofexile.com/) (venha jogar também!), assistir filmes e séries.
 
